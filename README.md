@@ -17,4 +17,4 @@
 <a href="https://imgur.com/37EMJsc"><img src="https://i.imgur.com/37EMJsc.png" title="source: imgur.com" /></a>
 
 <h2> License </h2>
-<p> This project is licensed under the MIT License - see the LICENSE file for details.</p>
+ <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
